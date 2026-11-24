@@ -1,0 +1,8 @@
+/push-swap
+/checker
+*.exe
+
+# Fichiers de Claude Code
+.claude/
+CLAUDE.md
+CLAUDE.local.md
